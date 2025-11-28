@@ -1,0 +1,3 @@
+db.url=jdbc:postgresql://192.168.0.104:5432/Condominio
+db.user=postgres
+db.password=admin
